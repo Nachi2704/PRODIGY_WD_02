@@ -1,1 +1,3 @@
-# PRODIGY_WD_02
+Task 02 web devlopment
+Stopwatch
+web Application
